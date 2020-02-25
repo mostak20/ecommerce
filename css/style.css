@@ -1,0 +1,15 @@
+header{
+    min-height: 535px;
+    background-color: #87509c;
+    color: #ffffff;
+}
+header a{
+    color: #ffffff;
+}
+ header h2 {
+  color: #ffffff;
+  font-size: 40px;
+}
+.pt-6{
+    padding-top: 150px;
+}
